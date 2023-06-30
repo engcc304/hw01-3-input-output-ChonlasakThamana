@@ -15,10 +15,13 @@
 */
 #include <stdio.h>
 int main(){
+    int a = 0 ;
+    int b = 0 ;
+    int c = 0 ;
 
-    scanf("%d",a );
-    printf( "First Name Aomsin.\n" );
-    printf( "Last Name AomMoney.\n" );
-    printf( "Aomsin AomMoneys TC, RMUTL, Chiang Mai, Thailand.\n" ); 
+    scanf("%d %d %d",a );
+    printf( "First ABC Aomsin.\n" );
+    printf( "Last DEF AomMoney.\n" );
+    printf( "ABD DEF TC, RMUTL, Chiang Mai, Thailand.\n" ); 
     return'0';
 }
