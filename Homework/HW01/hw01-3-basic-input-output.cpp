@@ -16,8 +16,8 @@
 #include <stdio.h>
 int main(){
 
- printf( "First Name: Aomsin.\n" ) 
- printf( "Last Name: AomMoney.\n" ) 
- printf( "Aomsin AomMoneys TC, RMUTL, Chiang Mai, Thailand.\n" ) 
+ printf( "First Name Aomsin.\n" );
+ printf( "Last Name AomMoney.\n" );
+ printf( "Aomsin AomMoneys TC, RMUTL, Chiang Mai, Thailand.\n" ); 
     return'0';
 }
